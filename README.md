@@ -1,5 +1,4 @@
-# sign-decoder
-Trail Sign Translator: An iOS Sample App
+## Trail Sign Translator: An iOS Sample App
 This iOS app demonstrates text recognition and translation from trail sign photos using Apple's Vision and Translation frameworks.
 
 ## Features
